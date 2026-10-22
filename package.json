@@ -1,0 +1,21 @@
+{
+  "name": "mcp-session-reaper",
+  "version": "1.0.0",
+  "description": "Lightweight session lifecycle and socket reaper middleware for Model Context Protocol (MCP) Streamable HTTP servers.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "streamable-http",
+    "express",
+    "session-management",
+    "agentic-ai",
+    "socket-reaper"
+  ],
+  "author": "Shanmukheswar",
+  "license": "MIT"
+}
